@@ -6,7 +6,7 @@
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render",
-    "build": "tsc --noEmit"
+    "build": "node init && tsc --noEmit"
   },
   "dependencies": {
     "@remotion/cli": "^4.0.0",

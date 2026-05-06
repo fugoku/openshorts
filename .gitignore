@@ -22,10 +22,8 @@ output/
 # OS / IDE
 .DS_Store
 .idea/
-.vscode/
 
 # Secrets
-.env
 
 # Generated metadata
 *_metadata.json
@@ -40,3 +38,8 @@ output/
 skills/
 skills-lock.json
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
